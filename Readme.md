@@ -21,8 +21,8 @@ If you plan on using .NET Core 3.0 or later you need to recreate the architectur
  * [Node.js](https://nodejs.org/en/) (version 10 or later) with npm (version 6.11.3 or later)
 
 If you plan on using the existing architecture you just need 
-* [Visual Studio 2017]
-* [.NET Core SDK 2]
+* Visual Studio 2017
+* .NET Core SDK 2
 
 ### Setup
 Follow these steps to get your development environment set up:

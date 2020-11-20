@@ -1,6 +1,4 @@
-[![Build Status](https://codingflow.visualstudio.com/NorthwindTraders/_apis/build/status/NorthwindTraders%20-%20CI?branchName=master)](https://codingflow.visualstudio.com/NorthwindTraders/_build/latest?definitionId=22&branchName=master)
-
-# NorthwindTraders
+# BestOnlineStoreAPI
 
 OnlineStore API application used to better understand the Clean Architecture and coding best practices. The architecture and design of the project is explained in the video:
 

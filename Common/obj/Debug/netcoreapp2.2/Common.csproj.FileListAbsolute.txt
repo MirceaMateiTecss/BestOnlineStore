@@ -1,0 +1,9 @@
+C:\Projects\OnlineStore\BestOnlineStore\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\Projects\OnlineStore\BestOnlineStore\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\Projects\OnlineStore\BestOnlineStore\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Projects\OnlineStore\BestOnlineStore\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
+C:\Projects\OnlineStore\BestOnlineStore\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+C:\Projects\OnlineStore\BestOnlineStore\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\Projects\OnlineStore\BestOnlineStore\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\Projects\OnlineStore\BestOnlineStore\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\Projects\OnlineStore\BestOnlineStore\Common\obj\Debug\netcoreapp2.2\Common.pdb

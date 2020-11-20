@@ -1,0 +1,13 @@
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\bin\Debug\netcoreapp2.2\Application.UnitTests.deps.json
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\bin\Debug\netcoreapp2.2\Application.UnitTests.runtimeconfig.json
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\bin\Debug\netcoreapp2.2\Application.UnitTests.runtimeconfig.dev.json
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\bin\Debug\netcoreapp2.2\Application.UnitTests.dll
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\bin\Debug\netcoreapp2.2\Application.UnitTests.pdb
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\obj\Debug\netcoreapp2.2\Application.UnitTests.csproj.CoreCompileInputs.cache
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\obj\Debug\netcoreapp2.2\Application.UnitTests.AssemblyInfoInputs.cache
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\obj\Debug\netcoreapp2.2\Application.UnitTests.AssemblyInfo.cs
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\obj\Debug\netcoreapp2.2\Application.UnitTests.dll
+C:\Projects\OnlineStore\BestOnlineStore\Application.UnitTests\obj\Debug\netcoreapp2.2\Application.UnitTests.pdb

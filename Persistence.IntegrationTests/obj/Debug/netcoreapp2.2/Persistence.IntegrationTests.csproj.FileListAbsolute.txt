@@ -1,0 +1,14 @@
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\bin\Debug\netcoreapp2.2\Persistence.IntegrationTests.deps.json
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\bin\Debug\netcoreapp2.2\Persistence.IntegrationTests.runtimeconfig.json
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\bin\Debug\netcoreapp2.2\Persistence.IntegrationTests.runtimeconfig.dev.json
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\bin\Debug\netcoreapp2.2\Persistence.IntegrationTests.dll
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\bin\Debug\netcoreapp2.2\Persistence.IntegrationTests.pdb
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\obj\Debug\netcoreapp2.2\Persistence.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\obj\Debug\netcoreapp2.2\Persistence.IntegrationTests.AssemblyInfoInputs.cache
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\obj\Debug\netcoreapp2.2\Persistence.IntegrationTests.AssemblyInfo.cs
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\obj\Debug\netcoreapp2.2\Persistence.IntegrationTests.dll
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\obj\Debug\netcoreapp2.2\Persistence.IntegrationTests.pdb
+C:\Projects\OnlineStore\BestOnlineStore\Persistence.IntegrationTests\obj\Debug\netcoreapp2.2\Persistence.IntegrationTests.csprojAssemblyReference.cache

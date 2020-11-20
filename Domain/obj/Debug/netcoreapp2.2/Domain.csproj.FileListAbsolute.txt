@@ -1,0 +1,8 @@
+C:\Projects\OnlineStore\BestOnlineStore\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Projects\OnlineStore\BestOnlineStore\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Projects\OnlineStore\BestOnlineStore\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Projects\OnlineStore\BestOnlineStore\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\OnlineStore\BestOnlineStore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Projects\OnlineStore\BestOnlineStore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Projects\OnlineStore\BestOnlineStore\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Projects\OnlineStore\BestOnlineStore\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
